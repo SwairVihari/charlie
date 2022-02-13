@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/charlie/static/css/main.cdc5c1c2.css",
+    "main.js": "/charlie/static/js/main.737bb57c.js",
+    "static/media/upwork_client.PNG": "/charlie/static/media/upwork_client.8fa556716c9c630825f9.PNG",
+    "static/media/background_img.png": "/charlie/static/media/background_img.206c4da063cd35d53093.png",
+    "static/media/two_people.jpg": "/charlie/static/media/two_people.4762604e3272aec4e0e6.jpg",
+    "static/media/review3.png": "/charlie/static/media/review3.188ee882514acb638249.png",
+    "static/media/review2.png": "/charlie/static/media/review2.af31ceab888c11ac3ce7.png",
+    "static/media/review1.png": "/charlie/static/media/review1.f990317741f8ed9de096.png",
+    "index.html": "/charlie/index.html",
+    "main.cdc5c1c2.css.map": "/charlie/static/css/main.cdc5c1c2.css.map",
+    "main.737bb57c.js.map": "/charlie/static/js/main.737bb57c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cdc5c1c2.css",
+    "static/js/main.737bb57c.js"
+  ]
+}
